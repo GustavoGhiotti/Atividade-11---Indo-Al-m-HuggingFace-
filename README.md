@@ -39,24 +39,6 @@ Se preferir instalar manualmente:
 pip install -r requirements.txt
 ```
 
-## Resultado obtido
-
-O notebook foi executado com sucesso e gerou:
-
-- os documentos recuperados com seus scores de similaridade;
-- o contexto enviado ao modelo;
-- uma resposta final gerada pelo `flan-t5-base`.
-
-Exemplo de pergunta testada:
-
-`Como o RAG ajuda a reduzir alucinacoes em modelos de linguagem?`
-
-## Integrantes
-
-Preencha com o(s) nome(s) do grupo, se houver:
-
-- Seu nome
-
 ## Referencias
 
 - Hugging Face. https://huggingface.co/
